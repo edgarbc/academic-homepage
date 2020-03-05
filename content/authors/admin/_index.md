@@ -18,14 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include cortical dynamics, spatial navigation, learning and memory.
 
 interests:
 - Computational Neuroscience
 - Artificial Intelligence
-- Spatial Navigation
-- Neuro plasticity
-- Memory and learning
 
 education:
   courses:
@@ -71,6 +68,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
 I am a Research Associate working with Dr Majid Mohajerani at the Canadian Centre for Behavioural Neuroscience at the University of Lehtbridge, Alberta.
 
