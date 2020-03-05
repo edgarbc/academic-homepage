@@ -29,10 +29,10 @@ education:
   - course: PhD in Computer Science and Artificial Intelligence
     institution: University of Sussex, England
   
-  - MRes in Computer Science and Artificial Intelligence
+  - course: MRes in Computer Science and Artificial Intelligence
     institution: University of Sussex, England
     
-  - BSc in Computer Science
+  - course: BSc in Computer Science
     institution: National Autonomous University of Mexico
     
 
