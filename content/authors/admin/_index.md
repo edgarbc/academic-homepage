@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Edgar Bermudez
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Post-doctoral research fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Lethbridge
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
