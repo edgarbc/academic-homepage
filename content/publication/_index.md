@@ -13,3 +13,5 @@ header:
   caption: ""
   image: ""
 ---
+
+Bermudez et al, My example paper, 2020.
