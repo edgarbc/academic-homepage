@@ -14,8 +14,5 @@ header:
   image: ""
 ---
 
-Bermudez et al, My example paper, 2020.
-
-Another entry, 2020.
 
 
